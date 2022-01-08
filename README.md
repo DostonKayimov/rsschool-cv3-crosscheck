@@ -1,3 +1,3 @@
-# rsschool-cv3-crosscheck
+# Please click the link below for my CV Webpage:
 
-## Извините, я не смог вовремя развернуть проект. Вот почему он все еще находится в мастере GitHub. Надеюсь, вы скопируете эти коды в свой редактор кода для просмотра. Спасибо!
+https://github.com/DostonKayimov/rsschool-cv/blob/main/README.md
